@@ -9,4 +9,3 @@ describe("users - array", () => {
     expect(users.length).toBe(2);
   });
 });
-

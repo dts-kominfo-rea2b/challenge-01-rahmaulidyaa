@@ -31,4 +31,3 @@ describe("users - attribute", () => {
     expect(attribute).toContain("favoriteRestaurant")
   });
 });
-

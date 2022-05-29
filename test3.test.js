@@ -11,4 +11,3 @@ describe("users - color & restaurant", () => {
     expect(users[1].favoriteRestaurant.length).toBe(8);
   });
 });
-
